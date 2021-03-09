@@ -57,7 +57,7 @@ Qi Feng
 - Heroku
 - npm packages
   - express
-  - Fs
+  - path
   - mongoose
   - morgan   
   
